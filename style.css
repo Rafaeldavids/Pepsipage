@@ -186,16 +186,60 @@ header ul li a
     .logo{
         
     }
+
+    #background{
+        padding: 1px;
+    }
+
+    .textbox  {
+        justify-content: center;
+        text-align: center;
+        margin: 0 0 0px 0;
+        top: 110px;
+        font-size: 4px;
+    }
+
+    .textbox h2{
+        font-size: 2em;
+        margin-bottom: 10px;
+        
+
+    }
+
+
     header {
-        padding-bottom: 0;
+        
+        justify-content: center;
+        text-align: center;
+       
+    }
+
+    .deful{
+        display: none;
+    }
+
+    header ul li a {
+        
     }
     .textbox{position:fixed;
         font-size: 13px;
         margin: 0 0px 50px 0;
         left: 1px;
     }
+    .container{
+        justify-content: first baseline;
+        text-align: center;
+    }
+
+    .container .imgbox{
+        justify-content: none;
+        display: block;
+        padding-right: 10px;
+        width: 100px;
+
+    }
    #lata{
-       
+       margin: 0px;
        
    }
    
@@ -203,8 +247,6 @@ header ul li a
    .thumb{
        bottom: 0;
    }
-    html {
-        font-size: 70%;
-    }
+     
 }
     
