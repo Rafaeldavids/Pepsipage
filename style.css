@@ -224,7 +224,7 @@ header ul li a
     .textbox{position:fixed;
         font-size: 13px;
         margin: 0 0px 0px 0;
-        left: 40px;
+        left: 25px;
     }
     .container{
         justify-content: first baseline;
