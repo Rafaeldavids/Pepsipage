@@ -236,16 +236,19 @@ header ul li a
         display: block;
         padding-right: 10px;
         width: 100px;
+        margin-left: 120px;
 
     }
    #lata{
+    width: 120px;
+   
        margin: 0px;
        
    }
    
    
    .thumb{
-       bottom: 0;
+       bottom: 30px;
    }
      
 }
